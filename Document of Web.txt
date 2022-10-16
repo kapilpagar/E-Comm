@@ -1,0 +1,20 @@
+Website project
+
+// 1.  Project setup 
+// 2.  Header, Footer, Login
+// 2.  Setup Database For Project
+// 3.  Complete Login Module
+// 4.  Product Database Table
+// 5.  Home Page Slider
+// 6.  Complete Home Page
+// 7.  Product Details Page
+// 8.  Cart Table
+// 9.  Add Product in Cart Table
+// 10. Complete Add to Cart 
+// 11. Login and Logout complete
+// 12. Cart Product Listing 
+// 13. Remove Item From Cart
+// 14. Order Table Migration
+// 15. Product Order Feature Complete with List
+// 16. My order Page (Order History)
+// 17. Registration or signup
